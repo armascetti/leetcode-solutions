@@ -1,1 +1,4 @@
-#LeetCode Solutions 
+# LeetCode Solutions 
+
+# Technologies Used 
+- Javascript 
