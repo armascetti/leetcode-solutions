@@ -6,9 +6,10 @@ function removeDuplicates(arr) {
  }
 
 
-console.log((removeDuplicates([1,2,2,3,4,4])));
+// console.log((removeDuplicates([1,2,2,3,4,4])));
 
-// [1,2,3,4]
+// // [1,2,3,4]
 
-//create a new set 
-//push the array into the new set 
+// //create a new set 
+// //push the array into the new set 
+
