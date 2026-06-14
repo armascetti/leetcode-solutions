@@ -1,7 +1,7 @@
-// function findLargest(arr) {
+function findLargest(arr) {
 //   // return largest number
-//   return Math.max(...arr)
-//    }
+  return Math.max(...arr)
+   }
 //the spread operator takes it out of the array which allows MAth.max to check the numbers 
 
 
