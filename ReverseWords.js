@@ -1,9 +1,9 @@
-// function reverseWords(str) {
-//   // reverse order of words
-//   let reverse = str.split(" ").reverse()
-//   let join = reverse.join(" ")
-//   console.log(join)
-// }
+function reverseWords(str) {
+  // reverse order of words
+  let reverse = str.split(" ").reverse()
+  let join = reverse.join(" ")
+  console.log(join)
+}
 
 
 //with for loop 
