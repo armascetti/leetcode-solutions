@@ -17,7 +17,6 @@ console.log(flatten([[1], [2], [3]]));
 // [1,2,3]
 
 // Create an empty result array
-
 // Loop through each item in arr
 
 //     IF item is NOT an array
