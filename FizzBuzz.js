@@ -20,5 +20,4 @@ function fizzBuzz(num) {
     }
 }
 
-
-console.log(fizzBuzz(15))
+fizzBuzz(15)
